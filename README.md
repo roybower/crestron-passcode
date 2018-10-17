@@ -13,7 +13,7 @@ Passcode PIN = new Passcode();
 SmartObject PasscodeKeypad;
 ```
 
-Define the serial join number for the text field and the digital join number for the 'Change Code' button that will be used on the UI:
+Define the serial join number for the text field and digital join number for the 'Change Code' button that will be used on the UI:
 ```c#
 private const uint passcodeTextField = 1234;
 private const uint passcodeChangeButton = 1234;
