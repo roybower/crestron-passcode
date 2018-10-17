@@ -1,0 +1,30 @@
+C:\Users\royjo\Desktop\passcode edit\Alpha Hub\bin\Passcode.sgd
+C:\Users\royjo\Desktop\passcode edit\Alpha Hub\bin\Passcode.dll
+C:\Users\royjo\Desktop\passcode edit\Alpha Hub\bin\Passcode.pdb
+C:\Users\royjo\Desktop\passcode edit\Alpha Hub\bin\Crestron.SimplSharpPro.CrestronConnected.dll
+C:\Users\royjo\Desktop\passcode edit\Alpha Hub\bin\Crestron.SimplSharpPro.DeviceSupport.dll
+C:\Users\royjo\Desktop\passcode edit\Alpha Hub\bin\Crestron.SimplSharpPro.DM.dll
+C:\Users\royjo\Desktop\passcode edit\Alpha Hub\bin\Crestron.SimplSharpPro.EthernetCommunications.dll
+C:\Users\royjo\Desktop\passcode edit\Alpha Hub\bin\Crestron.SimplSharpPro.UI.dll
+C:\Users\royjo\Desktop\passcode edit\Alpha Hub\bin\SimplSharpCustomAttributesInterface.dll
+C:\Users\royjo\Desktop\passcode edit\Alpha Hub\bin\SimplSharpHelperInterface.dll
+C:\Users\royjo\Desktop\passcode edit\Alpha Hub\bin\SimplSharpPro.exe
+C:\Users\royjo\Desktop\passcode edit\Alpha Hub\bin\SimplSharpTimerEventInterface.dll
+C:\Users\royjo\Desktop\passcode edit\Alpha Hub\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\royjo\Desktop\passcode edit\Alpha Hub\obj\Debug\Passcode.dll
+C:\Users\royjo\Desktop\passcode edit\Alpha Hub\obj\Debug\Passcode.pdb
+C:\Users\royjo\Desktop\crestron-passcode\s#\bin\Passcode.sgd
+C:\Users\royjo\Desktop\crestron-passcode\s#\bin\Passcode.dll
+C:\Users\royjo\Desktop\crestron-passcode\s#\bin\Passcode.pdb
+C:\Users\royjo\Desktop\crestron-passcode\s#\bin\Crestron.SimplSharpPro.CrestronConnected.dll
+C:\Users\royjo\Desktop\crestron-passcode\s#\bin\Crestron.SimplSharpPro.DeviceSupport.dll
+C:\Users\royjo\Desktop\crestron-passcode\s#\bin\Crestron.SimplSharpPro.DM.dll
+C:\Users\royjo\Desktop\crestron-passcode\s#\bin\Crestron.SimplSharpPro.EthernetCommunications.dll
+C:\Users\royjo\Desktop\crestron-passcode\s#\bin\Crestron.SimplSharpPro.UI.dll
+C:\Users\royjo\Desktop\crestron-passcode\s#\bin\SimplSharpCustomAttributesInterface.dll
+C:\Users\royjo\Desktop\crestron-passcode\s#\bin\SimplSharpHelperInterface.dll
+C:\Users\royjo\Desktop\crestron-passcode\s#\bin\SimplSharpPro.exe
+C:\Users\royjo\Desktop\crestron-passcode\s#\bin\SimplSharpTimerEventInterface.dll
+C:\Users\royjo\Desktop\crestron-passcode\s#\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\royjo\Desktop\crestron-passcode\s#\obj\Debug\Passcode.dll
+C:\Users\royjo\Desktop\crestron-passcode\s#\obj\Debug\Passcode.pdb
