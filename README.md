@@ -1,13 +1,13 @@
 # crestron-passcode
 
-SIMPL# Pro class to enable basic user authentication via numeric passcode entry (PIN).
+SIMPL# Pro class to enable basic user authentication via PIN entry. 
 
-Supports passcode up to 5 digits long. 
+Supports PIN up to 5 digits long. 
 
 
 ## How to use
 
-Instantiate Passcode class and define a smartobject for the keypad:
+Instantiate Passcode class and define a smartobject for the numeric keypad:
 ```c#
 Passcode PIN = new Passcode();
 SmartObject PasscodeKeypad;
