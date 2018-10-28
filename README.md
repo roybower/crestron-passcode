@@ -5,6 +5,9 @@ SIMPL# Pro class to enable basic user authentication via PIN entry.
 Supports PIN up to 5 digits long. 
 
 
+![](screenshot.png)
+
+
 ## How to use
 
 Instantiate Passcode class and define a smartobject for the numeric keypad:
